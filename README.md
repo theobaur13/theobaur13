@@ -1,16 +1,24 @@
-### Hi there 👋
+# Theodor Hui Ren Baur 
 
-<!--
-**theobaur13/theobaur13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Computer Science (BSc) - 2nd Year @ Cardiff University 🎓
 
-Here are some ideas to get you started:
+I am a second year Computer Science student at Cardiff University. \
+I am interested in web development, machine learning and cyber security. I am currently open to any graduate schemes or employment opportunities in related fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Check out my projects on my evolving personal website: [theobaur.co.uk](https://theobaur.co.uk/) 🌐
+
+#### Contact Me : ✉️
+- Email - baurt@cardiff.ac.uk
+- LinkedIn - https://www.linkedin.com/in/theobaur/
+
+```
+### My skills ###
+Python
+Java
+HTML
+CSS
+JavaScript
+SQL
+Visual Basic
+MATLAB
+```
