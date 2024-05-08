@@ -14,13 +14,13 @@ I am interested in web development, machine learning and cyber security. I am cu
 ```bash
 # My Skills
 echo "Proficient in:"
-- :snake: Python
-- :coffee: Java
-- :globe_with_meridians: HTML
-- :art: CSS
-- :floppy_disk: SQL
-- :computer: Visual Basic
+- 🐍 Python
+- ☕ Java
+- 🌐 HTML
+- 🎨 CSS
+- 💾 SQL
+- 💻 Visual Basic
 
 echo "Familiar with:"
-- :yellow_heart: JavaScript
-- :chart_with_upwards_trend: MATLAB
+- 💛 JavaScript
+- 📈 MATLAB
