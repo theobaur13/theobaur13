@@ -1,6 +1,6 @@
 # Theodor Hui Ren Baur 
 
-##### Computer Science (BSc) - 3rd Year @ Cardiff University 🎓
+#### Computer Science (BSc) - 3rd Year @ Cardiff University 🎓
 
 I am a third year Computer Science student at Cardiff University. \
 I am interested in web development, machine learning and cyber security. I am currently open to any graduate schemes or employment opportunities in related fields.
@@ -12,8 +12,8 @@ I am interested in web development, machine learning and cyber security. I am cu
 - LinkedIn - https://www.linkedin.com/in/theobaur/
 
 ```bash
-# My Skills
-echo "Proficient in:"
+># My Skills
+>echo "Proficient in:"
 - 🐍 Python
 - ☕ Java
 - 🌐 HTML
@@ -21,6 +21,6 @@ echo "Proficient in:"
 - 💾 SQL
 - 💻 Visual Basic
 
-echo "Familiar with:"
+>echo "Familiar with:"
 - 💛 JavaScript
 - 📈 MATLAB
