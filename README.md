@@ -11,14 +11,16 @@ I am interested in web development, machine learning and cyber security. I am cu
 - Email - baurt@cardiff.ac.uk
 - LinkedIn - https://www.linkedin.com/in/theobaur/
 
-```
-### My skills ###
-Python
-Java
-HTML
-CSS
-JavaScript
-SQL
-Visual Basic
-MATLAB
-```
+```bash
+# My Skills
+echo "Proficient in:"
+- :snake: Python
+- :coffee: Java
+- :globe_with_meridians: HTML
+- :art: CSS
+- :floppy_disk: SQL
+- :computer: Visual Basic
+
+echo "Familiar with:"
+- :yellow_heart: JavaScript
+- :chart_with_upwards_trend: MATLAB
