@@ -1,9 +1,10 @@
 # Theodor Hui Ren Baur 
 
-#### Computer Science (BSc) - 3rd Year @ Cardiff University 🎓
+#### Computer Science (BSc) - First Class Graduate @ Cardiff University 🎓
+#### Upcoming Artificial Intelligence (MSc) Student @ Cardiff University 🎓
 
-I am a third year Computer Science student at Cardiff University. \
-I am interested in web development, machine learning and cyber security. I am currently open to any graduate schemes or employment opportunities in related fields.
+I recently graduated with a first-class degree in Computer Science from Cardiff University. \
+Starting next year, I will be pursuing a Master's in Artificial Intelligence at Cardiff. I am interested in web development, machine learning, and cybersecurity. I am currently open to opportunities in graduate schemes or employment in related fields.
 
 #### Check out my projects on my evolving personal website: [theobaur.co.uk](https://theobaur.co.uk/) 🌐
 
