@@ -1,10 +1,10 @@
 # Theodor Hui Ren Baur 
 
 #### Computer Science (BSc) - First Class Graduate @ Cardiff University 🎓
-#### Upcoming Artificial Intelligence (MSc) Student @ Cardiff University 🎓
+#### Artificial Intelligence (MSc) Student @ Cardiff University 🎓
 
 I recently graduated with a first-class degree in Computer Science from Cardiff University. \
-Starting next year, I will be pursuing a Master's in Artificial Intelligence at Cardiff. I am interested in web development, machine learning, and cybersecurity. I am currently open to opportunities in graduate schemes or employment in related fields.
+I am currently pursuing a Master's in Artificial Intelligence at Cardiff. I am interested in web development, machine learning, and cybersecurity. I am currently open to opportunities in graduate schemes or employment in related fields.
 
 #### Check out my projects on my evolving personal website: [theobaur.co.uk](https://theobaur.co.uk/) 🌐
 
