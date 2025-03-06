@@ -7,5 +7,5 @@
 Visit my evolving personal website: [theobaur.co.uk](https://theobaur.co.uk/)
 
 ## Contact Me
-- Email - baurt@cardiff.ac.uk
+- Email - theo@theobaur.co.uk
 - LinkedIn - https://www.linkedin.com/in/theobaur/
